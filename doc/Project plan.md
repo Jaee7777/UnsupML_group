@@ -46,7 +46,7 @@ We will apply five different clustering techniques to each dataset:
 | **Partitional: Spectral Clustering** |  Lu                        |     Lu                     |
 | **AHC with: BIRCH**              | Peter                    | Peter                    |
 | **Density: DBSCAN**              |    Sally                 | Sally                        |
-| **Grid: CLIQUE**                 |                          |                          |
+| **Grid: CLIQUE**                 |      Lu                    |               Lu           |
 | **Model & Graph: Gaussian Mixture Model** |       Jaee          |              Jaee            |
 | **Slide Beautifier**             | Peter                    | Peter                    |
 | **Editor-in-Chief**              |  Jaee/Sally              |  Jaee/Sally              |
