@@ -27,6 +27,11 @@ conda activate ds5230
 make data
 ```
 
+* Import the conda environment to ensure all required dependencies are installed
+```
+conda env create -f environment.yml
+```
+
 * After running the above command, you should have a 'data' directory with 'Online Retail.xlsx' and 'Shill Bidding Dataset.csv' in it now.
 
 * Preprocess datasets with following command:
