@@ -33,6 +33,7 @@ https://archive.ics.uci.edu/dataset/562/shill+bidding+dataset
   - If Auction_ID had a reasonable number of unique values (less than 5% of dataset size), it was going to be converted to categorical, but it didn’t.  
 - Verified there were no duplicate records that could bias clustering outcomes.
 - Assessed missing values and confirmed that no substantial gaps required imputation.
+- Identified need to remove 'Class' variable from clustering analysis, as it is a boolean for normal behavior bidding vs. otherwise (or potential shill bidding)
 
 **2. Exploratory Data Analysis**
 
