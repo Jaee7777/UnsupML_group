@@ -19,18 +19,16 @@ conda activate ds5230
 
 ## Group Assignment 1
 * [Link](https://docs.google.com/presentation/d/1tvC9Ljs2UG3cjI59K5eEALSGA9bNqlZChpDjtmt5LuE/edit?usp=sharing) to slidedeck.
-
-* Setup data within the directory by following command:
-```
-make data
-```
-
-* Import the conda environment to ensure all required dependencies are installed
+  
+* Import the conda environment to ensure all required dependencies are installed. Use this environment as the local kernal to run Jupyter notebooks.
 ```
 conda env create -f environment.yml
 ```
 
-* After running the above command, you should have a 'data' directory with 'Online Retail.xlsx' and 'Shill Bidding Dataset.csv' in it now.
+* Setup data within the directory by following command. You should have a 'data' directory with 'Online Retail.xlsx' and 'Shill Bidding Dataset.csv' in it now.:
+```
+make data
+```
 
 * Jupyter version of the preprocessed datasets can be found here:
     * [Shill Bidding Dataset](src/OnlineRetail(NoPCA).ipynb)
