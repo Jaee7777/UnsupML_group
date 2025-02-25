@@ -32,14 +32,10 @@ conda env create -f environment.yml
 
 * After running the above command, you should have a 'data' directory with 'Online Retail.xlsx' and 'Shill Bidding Dataset.csv' in it now.
 
-* Preprocess datasets with following command:
-```
-make preprocess
-```
-
 * Jupyter version of the preprocessed datasets can be found here:
-    * [Shill Bidding Dataset](src/OnlineRetail.ipynb)
-    * [Online Retail](src/EDA_Shill_Bidding_Sun830pm.ipynb)
+    * [Shill Bidding Dataset](src/OnlineRetail(NoPCA).ipynb)
+    * [Online Retail](src/ShillBiddingoriginal.ipynb)
 
 * EDA can be found here:
-    * [EDA for Shill Bidding Dataset](doc/EDA%20for%20shill%20bidding%20dataset%20report.md)
+    * [EDA for Shill Bidding Dataset](doc/shill_EDA_report.md).
+    * [EDA for Online Retail](doc/onlineretail_EDA_report.md).
