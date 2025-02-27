@@ -42,10 +42,10 @@ We will apply five different clustering techniques to each dataset:
 
 | Task                              | Dataset #1 (Shill Bidding) | Dataset #2 (Online Retail) |
 |-----------------------------------|--------------------------|--------------------------|
-| **EDA**                           | Sally                    | Eshan                    |
+| **EDA**                           | Sally                    | Ehsan                    |
 | **Partitional: Spectral Clustering** |  Lu                        |     Lu                     |
 | **AHC with: BIRCH**              | Peter                    | Peter                    |
-| **Density: DBSCAN**              |    Sally                 | Sally                        |
+| **Density: DBSCAN**              |    Sally                 | Ehsan                       |
 | **Grid: CLIQUE**                 |      Lu                    |               Lu           |
 | **Model & Graph: Gaussian Mixture Model** |       Jaee          |              Jaee            |
 | **Slide Beautifier**             | Peter                    | Peter                    |
