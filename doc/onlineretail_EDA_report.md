@@ -33,7 +33,7 @@ One of the fundamental aspects of customer behavior analysis in e-commerce is th
 - Frequency counts the number of unique transactions made by each customer. High-frequency customers tend to be more loyal and valuable.
 - Monetary calculates the total amount spent by each customer over the recorded period. Customers with high monetary value contribute significantly to overall revenue. These metrics are computed by grouping transactions by customer ID and aggregating purchase behaviors accordingly.
 
-![OnlineRetail-Heatmap](../fig/OnlineRetail-heatmap.png)
+![OnlineRetail-Heatmap](../fig/OnlineRetail_heatmap.png)
 
 
 **Customer Segmentation Score**
